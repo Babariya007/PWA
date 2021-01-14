@@ -1,0 +1,13 @@
+{
+    "name": "Shakti Brass Products",
+    "short_name": "Shakti Brass",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "icons": [{
+        "src": "/images/Fevicon.png",
+        "type": "image/png",
+        "size": "512x512"
+    }]
+}
